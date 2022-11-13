@@ -8,5 +8,5 @@
 
 # App
 
-- [color picker](https://github.com/rerender2021/ave-color-picker) - A simple color picker powered by avernakis.
+- [color picker](https://github.com/rerender2021/color-picker) - A simple color picker powered by avernakis react.
 - [image diff](https://github.com/rerender2021/ave-image-diff) - A simple image diff tool powered by avernakis.
