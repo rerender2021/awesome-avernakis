@@ -11,3 +11,5 @@
 - [color picker](https://github.com/rerender2021/color-picker) - A simple color picker powered by avernakis react.
 - [image diff](https://github.com/rerender2021/ave-image-diff) - A simple image diff tool powered by avernakis.
 - [ocr](https://github.com/rerender2021/ocr-2) - A simple ocr app powered by avernakis react & paddle ocr.
+- [language shadow](https://github.com/rerender2021/language-shadow) - A simple ocr translator powered by avernakis react.
+
